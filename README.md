@@ -16,6 +16,7 @@ I scheduled a session, completed a personality-career match test, and discussed 
 
 **✅ Result**  
 I gained insight into software development, network security, and business analysis as viable options. This helped clarify my study and job application goals.
+![Screenshot](career-counselling.png)
 
 ---
 

@@ -68,7 +68,7 @@ Used a CV template and customized it with Markdown. Reviewed it against internsh
 
 **✅ Result**  
 Created a clean, concise CV. Received feedback from peers and updated it accordingly.
-![Screenshot](cv-submission.png)
+![Screenshot](Create-a-CV.png)
 
 ---
 

@@ -16,7 +16,8 @@ I scheduled a session, completed a personality-career match test, and discussed 
 
 **✅ Result**  
 I gained insight into software development, network security, and business analysis as viable options. This helped clarify my study and job application goals.
-![Screenshot](career-counselling.png)
+
+<img src="career-counselling.png" alt="career-counselling" width="500"/>
 
 ---
 
@@ -33,7 +34,7 @@ Took a coding skills test, reviewed past project feedback, and made a strengths 
 
 **✅ Result**  
 Discovered my interest in front-end development and strong problem-solving skills. Decided to specialize in full-stack development.
-![Screenshot](skills-interests.png)
+<img src="skills-interests.png" alt="skills-interests" width="500"/>
 
 
 ---
@@ -51,7 +52,8 @@ Took the MBTI test, researched the meaning of the results, and reviewed past tea
 
 **✅ Result**  
 Realized I enjoy solving complex problems and prefer independent tasks. I now look for roles that match this personality type.
-![Screenshot](personality-assessment.png)
+<img src="personality-assessment.png" alt="personality-assessment" width="500"/>
+
 
 ---
 
@@ -68,7 +70,7 @@ Used a CV template and customized it with Markdown. Reviewed it against internsh
 
 **✅ Result**  
 Created a clean, concise CV. Received feedback from peers and updated it accordingly.
-![Screenshot](Create-a-CV.png)
+<img src="skills-interests.png" alt="skills-interests." width="500"/>
 
 ---
 
@@ -85,5 +87,4 @@ Tailored my CV, proofread it, and submitted it through a job portal and direct e
 
 **✅ Result**  
 Received an acknowledgment from a company. Learned the importance of customizing applications for each opportunity.
-![Screenshot](cv-submission.png)
----
+<img src="(cv-submission.png" alt="(cv-submission" width="500"/>

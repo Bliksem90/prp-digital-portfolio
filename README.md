@@ -87,4 +87,4 @@ Tailored my CV, proofread it, and submitted it through a job portal and direct e
 
 **✅ Result**  
 Received an acknowledgment from a company. Learned the importance of customizing applications for each opportunity.
-<img src="(cv-submission.png" alt="(cv-submission" width="500"/>
+<img src="cv-submission.png" alt="(cv-submission" width="500"/>

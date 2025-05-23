@@ -65,7 +65,8 @@ Used a CV template and customized it with Markdown. Reviewed it against internsh
 
 **✅ Result**  
 Created a clean, concise CV. Received feedback from peers and updated it accordingly.
-![Screenshot](Create-a-CV.png)
+![Screenshot](cv-submission.png)
+
 ---
 
 ## 📤 CV Submission – Reflection (STAR)
@@ -81,5 +82,5 @@ Tailored my CV, proofread it, and submitted it through a job portal and direct e
 
 **✅ Result**  
 Received an acknowledgment from a company. Learned the importance of customizing applications for each opportunity.
-
+![Screenshot](cv-submission.png)
 ---

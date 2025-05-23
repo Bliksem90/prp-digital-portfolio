@@ -33,6 +33,8 @@ Took a coding skills test, reviewed past project feedback, and made a strengths 
 
 **✅ Result**  
 Discovered my interest in front-end development and strong problem-solving skills. Decided to specialize in full-stack development.
+![Screenshot](skills-interests.png)
+
 
 ---
 

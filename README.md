@@ -51,6 +51,7 @@ Took the MBTI test, researched the meaning of the results, and reviewed past tea
 
 **✅ Result**  
 Realized I enjoy solving complex problems and prefer independent tasks. I now look for roles that match this personality type.
+![Screenshot](personality-assessment.png)
 
 ---
 

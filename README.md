@@ -1,5 +1,5 @@
 # prp-digital-portfolio
-🌟 STAR Reflections – PRP370 Digital Portfolio
+🌟 STAR Reflections – PRP Digital Portfolio
 
 ---
 
